@@ -53,7 +53,7 @@ export default function Dashboard() {
               </span>
               <span className="text-xs text-slate-400">RouterOS v7.12.1</span>
             </div>
-            <h1 className="text-xl sm:text-2xl font-black text-white tracking-tight">Selamat Datang di Mikhmon Next.js</h1>
+            <h1 className="text-xl sm:text-2xl font-black text-white tracking-tight">Selamat Datang di Mikhmon</h1>
             <p className="text-xs sm:text-sm text-slate-300 mt-1">Kelola voucher, pantau pengguna aktif, dan lihat grafik bandwidth secara real-time dari HP maupun Laptop.</p>
           </div>
 
